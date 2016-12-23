@@ -1,5 +1,10 @@
 import React, { Component, PropTypes } from 'react'
 import Country from './CountryItem'
+import Years from './Years'
+import Highlight from './Highlight'
+import ActionTypes from '../constants/ActionTypes'
+import {GridList, GridTile} from 'material-ui/GridList';
+
 
 class MainSection extends Component {
   constructor(props, context) {
@@ -7,26 +12,34 @@ class MainSection extends Component {
   }
 
   render() {
-    const { countries } = this.props
-
+    const { countries, actions, selected } = this.props
+    const { highlightCountry } = actions;
+    const years = [2016, 2012];
     return (
       <section className="main">
-        <ul className="country-list">
-          {countries.map(country =>
-            <Country name={country.name}
+        <Years years={years}></Years>
+        <GridList className="country-list"
+            cols={5}
+            padding={1}>
+          {countries.countries.map(country =>
+            <Country
+                     onCountryMouseover={() => actions.selectCountry(country)}
+                     onCountryMouseout={() => actions.selectCountry(null)}
+                     name={country.name}
                      key={country.name}
                      gold={country.gold}
                      silver={country.silver}
                      bronze={country.bronze} />
           )}
-        </ul>
+        </GridList>
+        <Highlight className="highlight" selected={countries.selected}></Highlight>
       </section>
     )
   }
 }
 
 MainSection.propTypes = {
-  countries: PropTypes.array.isRequired
+  countries: PropTypes.object.isRequired
 }
 
 export default MainSection

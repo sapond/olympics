@@ -1,0 +1,524 @@
+[
+  {
+    "name": "United States (USA)",
+    "gold": 46,
+    "silver": 37,
+    "bronze": 38
+  },
+  {
+    "name": "Great Britain (GBR)",
+    "gold": 27,
+    "silver": 23,
+    "bronze": 17
+  },
+  {
+    "name": "China (CHN)",
+    "gold": 26,
+    "silver": 18,
+    "bronze": 26
+  },
+  {
+    "name": "Russia (RUS)",
+    "gold": 19,
+    "silver": 18,
+    "bronze": 19
+  },
+  {
+    "name": "Germany (GER)",
+    "gold": 17,
+    "silver": 10,
+    "bronze": 15
+  },
+  {
+    "name": "Japan (JPN)",
+    "gold": 12,
+    "silver": 8,
+    "bronze": 21
+  },
+  {
+    "name": "France (FRA)",
+    "gold": 10,
+    "silver": 18,
+    "bronze": 14
+  },
+  {
+    "name": "South Korea (KOR)",
+    "gold": 9,
+    "silver": 3,
+    "bronze": 9
+  },
+  {
+    "name": "Italy (ITA)",
+    "gold": 8,
+    "silver": 12,
+    "bronze": 8
+  },
+  {
+    "name": "Australia (AUS)",
+    "gold": 8,
+    "silver": 11,
+    "bronze": 10
+  },
+  {
+    "name": "Netherlands (NED)",
+    "gold": 8,
+    "silver": 7,
+    "bronze": 4
+  },
+  {
+    "name": "Hungary (HUN)",
+    "gold": 8,
+    "silver": 3,
+    "bronze": 4
+  },
+  {
+    "name": "Brazil (BRA)*",
+    "gold": 7,
+    "silver": 6,
+    "bronze": 6
+  },
+  {
+    "name": "Spain (ESP)",
+    "gold": 7,
+    "silver": 4,
+    "bronze": 6
+  },
+  {
+    "name": "Kenya (KEN)",
+    "gold": 6,
+    "silver": 6,
+    "bronze": 1
+  },
+  {
+    "name": "Jamaica (JAM)",
+    "gold": 6,
+    "silver": 3,
+    "bronze": 2
+  },
+  {
+    "name": "Croatia (CRO)",
+    "gold": 5,
+    "silver": 3,
+    "bronze": 2
+  },
+  {
+    "name": "Cuba (CUB)",
+    "gold": 5,
+    "silver": 2,
+    "bronze": 4
+  },
+  {
+    "name": "New Zealand (NZL)",
+    "gold": 4,
+    "silver": 9,
+    "bronze": 5
+  },
+  {
+    "name": "Canada (CAN)",
+    "gold": 4,
+    "silver": 3,
+    "bronze": 15
+  },
+  {
+    "name": "Uzbekistan (UZB)",
+    "gold": 4,
+    "silver": 2,
+    "bronze": 7
+  },
+  {
+    "name": "Kazakhstan (KAZ)",
+    "gold": 3,
+    "silver": 5,
+    "bronze": 9
+  },
+  {
+    "name": "Colombia (COL)",
+    "gold": 3,
+    "silver": 2,
+    "bronze": 3
+  },
+  {
+    "name": "Switzerland (SUI)",
+    "gold": 3,
+    "silver": 2,
+    "bronze": 2
+  },
+  {
+    "name": "Iran (IRI)",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 4
+  },
+  {
+    "name": "Greece (GRE)",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "name": "Argentina (ARG)",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "name": "Denmark (DEN)",
+    "gold": 2,
+    "silver": 6,
+    "bronze": 7
+  },
+  {
+    "name": "Sweden (SWE)",
+    "gold": 2,
+    "silver": 6,
+    "bronze": 3
+  },
+  {
+    "name": "South Africa (RSA)",
+    "gold": 2,
+    "silver": 6,
+    "bronze": 2
+  },
+  {
+    "name": "Ukraine (UKR)",
+    "gold": 2,
+    "silver": 5,
+    "bronze": 4
+  },
+  {
+    "name": "Serbia (SRB)",
+    "gold": 2,
+    "silver": 4,
+    "bronze": 2
+  },
+  {
+    "name": "Poland (POL)",
+    "gold": 2,
+    "silver": 3,
+    "bronze": 6
+  },
+  {
+    "name": "North Korea (PRK)",
+    "gold": 2,
+    "silver": 3,
+    "bronze": 2
+  },
+  {
+    "name": "Belgium (BEL)",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 2
+  },
+  {
+    "name": "Thailand (THA)",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 2
+  },
+  {
+    "name": "Slovakia (SVK)",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 0
+  },
+  {
+    "name": "Georgia (GEO)",
+    "gold": 2,
+    "silver": 1,
+    "bronze": 4
+  },
+  {
+    "name": "Azerbaijan (AZE)",
+    "gold": 1,
+    "silver": 7,
+    "bronze": 10
+  },
+  {
+    "name": "Belarus (BLR)",
+    "gold": 1,
+    "silver": 4,
+    "bronze": 4
+  },
+  {
+    "name": "Turkey (TUR)",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 4
+  },
+  {
+    "name": "Armenia (ARM)",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 0
+  },
+  {
+    "name": "Czech Republic (CZE)",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 7
+  },
+  {
+    "name": "Ethiopia (ETH)",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 5
+  },
+  {
+    "name": "Slovenia (SLO)",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 1
+  },
+  {
+    "name": "Indonesia (INA)",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 0
+  },
+  {
+    "name": "Romania (ROU)",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 3
+  },
+  {
+    "name": "Bahrain (BRN)",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "name": "Vietnam (VIE)",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "name": "Chinese Taipei (TPE)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 2
+  },
+  {
+    "name": "Bahamas (BAH)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Ivory Coast (CIV)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Independent Olympic Athletes (IOA)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Fiji (FIJ)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0
+  },
+  {
+    "name": "Jordan (JOR)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0
+  },
+  {
+    "name": "Kosovo (KOS)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0
+  },
+  {
+    "name": "Puerto Rico (PUR)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0
+  },
+  {
+    "name": "Singapore (SIN)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0
+  },
+  {
+    "name": "Tajikistan (TJK)",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0
+  },
+  {
+    "name": "Malaysia (MAS)",
+    "gold": 0,
+    "silver": 4,
+    "bronze": 1
+  },
+  {
+    "name": "Mexico (MEX)",
+    "gold": 0,
+    "silver": 3,
+    "bronze": 2
+  },
+  {
+    "name": "Algeria (ALG)",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0
+  },
+  {
+    "name": "Ireland (IRL)",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0
+  },
+  {
+    "name": "Lithuania (LTU)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 3
+  },
+  {
+    "name": "Bulgaria (BUL)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "name": "Venezuela (VEN)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 2
+  },
+  {
+    "name": "India (IND)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1
+  },
+  {
+    "name": "Mongolia (MGL)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1
+  },
+  {
+    "name": "Burundi (BDI)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "name": "Grenada (GRN)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "name": "Niger (NIG)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "name": "Philippines (PHI)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "name": "Qatar (QAT)",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0
+  },
+  {
+    "name": "Norway (NOR)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 4
+  },
+  {
+    "name": "Egypt (EGY)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 3
+  },
+  {
+    "name": "Tunisia (TUN)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 3
+  },
+  {
+    "name": "Israel (ISR)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2
+  },
+  {
+    "name": "Austria (AUT)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Dominican Republic (DOM)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Estonia (EST)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Finland (FIN)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Morocco (MAR)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Moldova (MDA)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Nigeria (NGR)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Portugal (POR)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "Trinidad and Tobago (TTO)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  {
+    "name": "United Arab Emirates (UAE)",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  }
+]

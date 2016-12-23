@@ -1,0 +1,49 @@
+.main {
+  display: flex;
+}
+
+.country-list {
+  flex: 1
+}
+.country-list > div > div {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.country-list > div > div:hover {
+  background: rgba(0, 0, 0, .2); 
+  transition: background 0.2s;
+}
+
+.country-list > div > div > img {
+  transform: scale(1.5);
+  transition: all 0.2s ease-in-out;
+}
+
+.country-list > div > div:hover > img {
+  cursor: pointer;
+  transform: scale(2);
+}
+
+.highlight {
+  flex: 1
+}
+
+.highlight > div {
+  top: 1px;
+  position: fixed;
+  padding-left: 20px;
+}
+
+.highlight.open {
+}
+
+.medals  {
+  list-style-type: none;
+}
+
+.medals li {
+  display: inline;
+  list-style-type: none;
+}
